@@ -21,7 +21,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
       <ProjectCard
           src={t6}
-          link="https://drive.google.com/file/d/1gfZuufi1eNOsn5emUD5OSIdP_e0qpmCx/view?usp=sharing"
+          link="https://drive.google.com/file/d/1nErXGWhBnRPm4h2G16wdJW0ko2Rw1k0S/view?usp=sharing"
           p="Roast"
         />        
        <ProjectCard
@@ -31,27 +31,27 @@ function Projects() {
         />
         <ProjectCard
           src={t2}
-          link="https://drive.google.com/file/d/1gfZuufi1eNOsn5emUD5OSIdP_e0qpmCx/view?usp=sharing"
+          link="https://drive.google.com/file/d/1ZFOADhPnyQ8yDWH6ZT_zueG9CQAqf96V/view?usp=sharing"
           p="Gaming"
         />
         <ProjectCard
           src={t7}
-          link="https://drive.google.com/file/d/1gfZuufi1eNOsn5emUD5OSIdP_e0qpmCx/view?usp=sharing"
-          p="Roast"
+          link="https://drive.google.com/file/d/1-_7KFv8ntcu0eGQT7hQz93FXn21VL03z/view?usp=sharing"
+          p="Roast"ing
         />        
         <ProjectCard
           src={t3}
-          link="https://drive.google.com/file/d/1gfZuufi1eNOsn5emUD5OSIdP_e0qpmCx/view?usp=sharing"
+          link="https://drive.google.com/file/d/1-_7KFv8ntcu0eGQT7hQz93FXn21VL03z/view?usp=sharing"
           p="Gaming"
         />         
         <ProjectCard
           src={t4}
-          link="https://drive.google.com/file/d/1gfZuufi1eNOsn5emUD5OSIdP_e0qpmCx/view?usp=sharing"
+          link="https://drive.google.com/file/d/1VSBzTiKXpsao0p1F7-AFE7ZsyrIhy7Mf/view?usp=sharing"
           p="Gaming"
         />
         <ProjectCard
           src={t5}
-          link="https://drive.google.com/file/d/1gfZuufi1eNOsn5emUD5OSIdP_e0qpmCx/view?usp=sharing"
+          link="https://drive.google.com/file/d/1BiVBrDxp6SY-DsNHuaUXIRO16TYvfjSk/view?usp=sharing"
           p="Gaming"
         />                                              
       </div>
