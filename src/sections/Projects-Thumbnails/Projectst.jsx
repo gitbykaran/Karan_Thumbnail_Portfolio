@@ -6,6 +6,7 @@ import t4 from '../../assets/t4.png';
 import t5 from '../../assets/t5.png';
 import t6 from '../../assets/t6.png';
 import t7 from '../../assets/t7.png';
+import t8 from '../../assets/t8.png';
 
 
 
@@ -43,6 +44,11 @@ function Projects() {
           src={t3}
           link="https://drive.google.com/file/d/1-_7KFv8ntcu0eGQT7hQz93FXn21VL03z/view?usp=sharing"
           p="Gaming"
+        /> 
+        <ProjectCard
+          src={t8}
+          link="https://drive.google.com/file/d/1jjABQzg7dPeap7Tn6sQxIlO8rYd8uNy6/view?usp=sharing"
+          p="Explainer"
         />         
         <ProjectCard
           src={t4}
