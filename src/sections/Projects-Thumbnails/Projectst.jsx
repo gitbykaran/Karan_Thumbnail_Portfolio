@@ -7,6 +7,8 @@ import t5 from '../../assets/t5.png';
 import t6 from '../../assets/t6.png';
 import t7 from '../../assets/t7.png';
 import t8 from '../../assets/t8.png';
+import podcast from '../../assets/podcast.png';
+
 
 
 
@@ -39,7 +41,12 @@ function Projects() {
           src={t7}
           link="https://drive.google.com/file/d/1-_7KFv8ntcu0eGQT7hQz93FXn21VL03z/view?usp=sharing"
           p="Roast"ing
-        />        
+        />    
+        <ProjectCard
+          src={podcast}
+          link="https://drive.google.com/file/d/1eDQ53HfJyZcuuPnBwnBMNxMytVMr0gZ2/view?usp=sharing"
+          p="Podcast"
+        />              
         <ProjectCard
           src={t3}
           link="https://drive.google.com/file/d/1-_7KFv8ntcu0eGQT7hQz93FXn21VL03z/view?usp=sharing"
