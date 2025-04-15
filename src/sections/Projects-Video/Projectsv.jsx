@@ -13,6 +13,7 @@ import sidhutribute from '../../assets/sidhutribute.png';
 import college1 from '../../assets/PGGC46.png';
 import jalianwala from '../../assets/jalianwala.png';
 import aevytv from '../../assets/aevytv.png';
+import stampede from '../../assets/stampede.png';
 
 
 
@@ -37,6 +38,12 @@ function Projects() {
           link="https://drive.google.com/file/d/1psh9WuAv7swJ4tSJnAjwwQgh4e8SMPdB/view?usp=sharing"
           h3="Jallianwala Incident"
           p="Explainer"
+        />
+        <ProjectCard
+          src={stampede}
+          link="https://drive.google.com/file/d/1-3FXhQcpevfFgQO-MAqpL5RfuQ86F5Mm/view?usp=sharing"
+          h3="Delhi Stampede"
+          p="Journalism"
         />
         <ProjectCard 
           src={fatehburj}
