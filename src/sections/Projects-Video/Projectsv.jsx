@@ -10,7 +10,7 @@ import mundepindde from '../../assets/mundepindde.png';
 import chamkilasong from '../../assets/chamkilasong.png';
 import panchiwin from '../../assets/panchiwin.png';
 import sidhutribute from '../../assets/sidhutribute.png';
-import college1 from '../../assets/PGGC46.png';
+import ww3 from '../../assets/ww3.png';
 import jalianwala from '../../assets/jalianwala.png';
 import aevytv from '../../assets/aevytv.png';
 import stampede from '../../assets/stampede.png';
@@ -32,6 +32,12 @@ function Projects() {
           src={aevytv}
           link="https://drive.google.com/file/d/1Nxk5tmWfVggHr0TmYKkPUA8l2ZqELTnP/view?usp=sharing"
           h3="Aevy TV (YT)"
+          p="Explainer"
+        />
+        <ProjectCard
+          src={ww3}
+          link="https://drive.google.com/file/d/1EhhQ-Wdj0kss9MDRsKxy3WKRTbTwHwbo/view?usp=sharing"
+          h3="Approaching WW3"
           p="Explainer"
         />
        <ProjectCard
