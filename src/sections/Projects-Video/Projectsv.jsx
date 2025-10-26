@@ -15,7 +15,8 @@ import jalianwala from '../../assets/jalianwala.png';
 import aevytv from '../../assets/aevytv.png';
 import stampede from '../../assets/stampede.png';
 import nature from '../../assets/nature.png';
-
+import dled from '../../assets/DLED.png';
+import sastra from '../../assets/SASTRA.png';
 
 
 
@@ -47,10 +48,22 @@ function Projects() {
           p="Explainer"
         />
         <ProjectCard
+          src={dled}
+          link="https://drive.google.com/file/d/16Za__fNwNMrA5jrp7A5pcvDMGo5hN8rp/view?usp=sharing"
+          h3="Making Education Fun"
+          p="VLED - IIT Ropar"
+        />
+        <ProjectCard
           src={stampede}
           link="https://drive.google.com/file/d/1-3FXhQcpevfFgQO-MAqpL5RfuQ86F5Mm/view?usp=sharing"
           h3="Delhi Stampede"
           p="Journalism"
+        />
+        <ProjectCard
+          src={sastra}
+          link="https://drive.google.com/file/d/10zqGv2orMWDW3PfKjHoHW8oVbMdV1uhH/view?usp=sharing"
+          h3="Working with SASTRA"
+          p="Feedback"
         />
         <ProjectCard 
           src={nature}
@@ -76,18 +89,7 @@ function Projects() {
           h3="Promotional Reel"
           p="Pr Estate"
         />
-        <ProjectCard
-          src={maruti}
-          link="https://www.youtube.com/watch?v=YuBCAzj-GL0"
-          h3="Dad's Whip"
-          p="Documenting"
-        />
-        <ProjectCard
-          src={sidhutribute}
-          link="https://drive.google.com/file/d/1wQahLErlVLVifvFs0oEW7-96cRBmkZkU/view"
-          h3="Sidhu Tribute"
-          p="Documentary"
-        />
+      
         <ProjectCard
           src={chamkilasong}
           link="https://www.youtube.com/watch?v=eROo-WfEeio"
