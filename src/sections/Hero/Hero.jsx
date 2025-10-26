@@ -50,7 +50,8 @@ function Hero() {
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
-        <p className={styles.description}>Producing educational films under the MMTTP GuruSetu Programme at IIT Ropar for 15 lakh+ educators across India. </p>
+        <p className={styles.description}>Producing educational films under the 
+          MMTTP GuruSetu Programme at IIT Ropar for 15 lakh+ educators across India. </p>
         <a href="https://wa.me/919872077144?text=Hello%20I%20am%20interested%20in%20your%20services" target="_blank">
           <button className="hover">Let's Connect</button>
         </a>
