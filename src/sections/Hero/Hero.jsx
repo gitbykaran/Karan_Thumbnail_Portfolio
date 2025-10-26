@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Singh
         </h1>
-        <h2>Digital Content Designer</h2>
+        <h2>Video Creative Specialist</h2>
         <span>
       
           <a href="https://www.instagram.com/rayatkarne_/" target="_blank">
@@ -50,8 +50,7 @@ function Hero() {
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
-        <p className={styles.description}>
-        Helping creators and brands stand out with stunning videos and compelling graphics. </p>
+        <p className={styles.description}>Producing educational films under the MMTTP GuruSetu Programme at IIT Ropar for 15 lakh+ educators across India. </p>
         <a href="https://wa.me/919872077144?text=Hello%20I%20am%20interested%20in%20your%20services" target="_blank">
           <button className="hover">Let's Connect</button>
         </a>
