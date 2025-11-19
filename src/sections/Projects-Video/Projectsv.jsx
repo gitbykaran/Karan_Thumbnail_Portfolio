@@ -37,7 +37,7 @@ function Projects() {
         />
         <ProjectCard
           src={ww3}
-          link="https://drive.google.com/file/d/1EhhQ-Wdj0kss9MDRsKxy3WKRTbTwHwbo/view?usp=sharing"
+          link="https://drive.google.com/file/d/1KE6nyV_wgpg0EiPOR3y6qQc4eizD_fce/view?usp=sharing"
           h3="Approaching WW3"
           p="Explainer"
         />
@@ -55,7 +55,7 @@ function Projects() {
         />
         <ProjectCard
           src={stampede}
-          link="https://drive.google.com/file/d/1-3FXhQcpevfFgQO-MAqpL5RfuQ86F5Mm/view?usp=sharing"
+          link="https://drive.google.com/file/d/1bkyBjMxdwsWyUr8C48LQVs_o4sWLO_P_/view"
           h3="Delhi Stampede"
           p="Journalism"
         />
