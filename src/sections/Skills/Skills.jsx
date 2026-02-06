@@ -27,11 +27,14 @@ function Skills() {
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Color Grading"/>
-        <SkillList src={checkMarkIcon} skill="Social media graphics"/> 
-        <SkillList src={checkMarkIcon} skill="Vlogs"/>
-        <SkillList src={checkMarkIcon} skill="Short Films" />
-        <SkillList src={checkMarkIcon} skill="Helping YouTubers" />
+        <SkillList src={checkMarkIcon} skill="Faculty Development & Training Media"/> 
+        <SkillList src={checkMarkIcon} skill="Visual Learning Design"/>
       </div>
+      <hr />
+       <div className={styles.skillList}>
+        <SkillList src={checkMarkIcon} skill="Short Films" />
+        <SkillList src={checkMarkIcon} skill="Educational Video Editing" />
+       </div>
     </section>
   );
 }
