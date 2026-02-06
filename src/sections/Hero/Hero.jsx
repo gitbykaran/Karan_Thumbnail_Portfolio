@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/karandeepphoto.png';
+import heroImg from '../../assets/karanzohoimg.png';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import instagramLight from '../../assets/instagram_icon.svg';
@@ -25,7 +25,7 @@ function Hero() {
         <img
           src={heroImg}
           className={styles.hero}
-          alt="Profile picture of Pardeep Singh"
+          alt="Profile picture of Karandeep Singh"
         />
         <img
           className={styles.colorMode}
