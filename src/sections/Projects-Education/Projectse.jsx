@@ -18,6 +18,7 @@ import nature from '../../assets/nature.png';
 
 import Biases from '../../assets/bias.png';
 import Naren from '../../assets/naren_assess.png';
+import jayantilearning from '../../assets/learning_to_think.png';
 
 
 
@@ -43,9 +44,9 @@ function Projects() {
           p="Mr Prakash Hegade - KLE Hubli"
         />
         <ProjectCard
-          src={jayanti}
-          link="https://drive.google.com/file/d/1UtNoVKhGW4UtgmQIx5RdispOXAOD0M79/view?usp=sharing"
-          h3="Diversity & Inclusion"
+          src={jayantilearning}
+          link="https://drive.google.com/file/d/1PM0Hj2aH6u-5g0aumEWP3TIKoICobqYo/view?usp=sharing"
+          h3="Learning to Think"
           p="Dr Jayanti Dutta - Director MMTTP"
         />
        <ProjectCard
@@ -53,6 +54,12 @@ function Projects() {
           link="https://drive.google.com/file/d/1BNpo5IUSP5KsmfLyvk3UOsFj-IQjziOG/view?usp=sharing"
           h3="Psychlogical Literacy"
           p="Ms Ashima Dutta - Relationship Therapist"
+        />
+        <ProjectCard
+          src={jayanti}
+          link="https://drive.google.com/file/d/1UtNoVKhGW4UtgmQIx5RdispOXAOD0M79/view?usp=sharing"
+          h3="Diversity & Inclusion"
+          p="Dr Jayanti Dutta - Director MMTTP"
         />
           <ProjectCard
           src={Naren}
